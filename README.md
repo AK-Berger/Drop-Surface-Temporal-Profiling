@@ -3,6 +3,14 @@
 **Drop-Surface Temporal Profiling** is a specialized method for analyzing dynamic interactions between liquid droplets and a moving surface. This technique captures time-series data on drop length, and contact angles, providing a comprehensive view of droplet behavior over time. It is particularly valuable in the fields of surface science and fluid dynamics, enabling detailed analysis of liquid-solid interactions for research and industrial applications. Unlike traditional static measurements, this method captures the evolution of droplet behavior, providing a fuller picture of dynamic interactions.
 
 
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb1c5099-a743-481e-b780-204e6dc4a2d4" alt="ezgif-7-51b7e7ba57">
+</p>
+
+
+
 ## Methodology
 
 1. **Capturing Dynamic Drop Behavior**:  
